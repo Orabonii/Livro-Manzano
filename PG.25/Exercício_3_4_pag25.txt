@@ -1,0 +1,13 @@
+3) Classifique os conteúdos das variáveis a seguir de acordo com seu tipo, assinalando com I para
+inteiros, R para reais, L para lógicos e C para literais:
+
+A. (I) 0 B. (L) Verdadeiro C. (C) "Falso"D. (R) 5.7 E. (R) 45.8976 
+F. (I) - 678 G. (C) "cinco" H. (C) "443" I. (L) Falso J. (C) "0" 
+K. (C) "Casa 8" L. (I) 34
+
+4) Assinale com um X os nomes de variáveis válidos:
+
+A. (X) abc B. ( ) Verdadeiro C. ( ) 21brasil D. ( ) guarda-chuva 
+E. ( ) etc. F. (X) zero G. (X) guarda_chuva H. ( ) leia I. ( ) nome*usuario
+J. ( ) #fone K. ( ) Casa 8 L. (X) endereco M. ( ) "cinco" N. ( ) falso 
+O. (X) _falso
