@@ -1,7 +1,7 @@
-Algoritmo "ExercÌcio_F"
-// Disciplina   : [LÛgica de ProgramaÁ„o com JavaScript]
+Algoritmo "Exerc√≠cio_F"
+// Disciplina   : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Jailson
-// DescriÁ„o   : Convers„o de temperatura, de Celsius para Fahrenheit.
+// Descri√ß√£o   : Exercicio_f.
 // Autor(a)    : kaua oraboni
 // Data atual  : 16/04/2024
 Var
@@ -29,6 +29,6 @@ Inicio
       B := C
       C := Aux
    fimse
-   escreval("Os valores em ordem crescente s„o: ", A, ", ", B, ", ", C)
+   escreval("Os valores em ordem crescente s√£o: ", A, ", ", B, ", ", C)
    
 Fimalgoritmo
