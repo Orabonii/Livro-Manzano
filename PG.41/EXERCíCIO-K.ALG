@@ -1,21 +1,21 @@
-Algoritmo "Exercício_K"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_K"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_k.
 // Autor(a)    : kaua oraboni
 // Data atual  : 17/04/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 valor:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Digite um valor menor que três: ")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+escreval("Digite um valor menor que trÃªs: ")
 leia (valor)
 se valor > 3 entao
 escreval ("")
 senao
-escreval ("seu valor escolhido é o: ", valor)
+escreval ("seu valor escolhido Ã© o: ", valor)
 fimse
 
 Fimalgoritmo
