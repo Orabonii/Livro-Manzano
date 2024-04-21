@@ -1,11 +1,11 @@
-Algoritmo "Exercício_G"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_G"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_g.
 // Autor(a)    : kaua oraboni
 // Data atual  : 14/04/2024
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 A:inteiro
 B:inteiro
 C:inteiro
@@ -14,7 +14,7 @@ soma1, soma2, soma3, soma4, soma5, soma6:inteiro
 multi1, multi2, multi3, multi4, multi5, multi6:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 escreval("Digite o valor de A")
 leia(A)
 escreval("Digite o valor de B")
@@ -35,7 +35,7 @@ multi3 <- (A * D)
 multi4 <- (B * C)
 multi5 <- (B * D)
 multi6 <- (C * D)
-escreval("A soma das 6 operações foram: ", soma1, soma2, soma3, soma4, soma5, soma6)
-escreval("A multiplicação das 6 operações foram: ", multi1, multi2, multi3, multi4, multi5, multi6)
+escreval("A soma das 6 operaÃ§Ãµes foram: ", soma1, soma2, soma3, soma4, soma5, soma6)
+escreval("A multiplicaÃ§Ã£o das 6 operaÃ§Ãµes foram: ", multi1, multi2, multi3, multi4, multi5, multi6)
 
 Fimalgoritmo
