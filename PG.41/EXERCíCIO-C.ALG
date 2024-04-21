@@ -1,25 +1,25 @@
-Algoritmo "Exercício_C"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_C"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_c.
 // Autor(a)    : kaua oraboni
 // Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    nota1:real
    nota2:real
    nota3:real
    nota4:real
    notasmedia:real
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   escreval("Digite a 1° Nota: ")
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+   escreval("Digite a 1Â° Nota: ")
    leia(nota1)
-   escreval("Digite a 2° Nota: ")
+   escreval("Digite a 2Â° Nota: ")
    leia(nota2)
-   escreval("Digite a 3° Nota: ")
+   escreval("Digite a 3Â° Nota: ")
    leia(nota3)
-   escreval("Digite a 4° Nota: ")
+   escreval("Digite a 4Â° Nota: ")
    leia(nota4)
 
    notasmedia <- (nota1 + nota2 + nota3 + nota4) / 4
