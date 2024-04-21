@@ -1,17 +1,17 @@
-Algoritmo "Exercício_F"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_F"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_f.
 // Autor(a)    : kaua oraboni
 // Data atual  : 12/04/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 A:caracter
 B:caracter
 _mediador:caracter
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 escreval("Escreva o valor de A")
 leia(A)
 escreval("Escreva o valor de B")
@@ -19,6 +19,6 @@ leia(B)
 _mediador <- A
 A <- B
 B <- _mediador
-escreval("O valor de A, agora é ",A)
-escreva("O valor do B, agora é ",B)
+escreval("O valor de A, agora Ã© ",A)
+escreva("O valor do B, agora Ã© ",B)
 Fimalgoritmo
