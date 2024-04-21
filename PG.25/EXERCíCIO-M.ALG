@@ -1,7 +1,7 @@
-Algoritmo "Exercício_M"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_M"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_m.
 // Autor(a)    : kaua oraboni
 // Data atual  : 14/04/2024
 Var
@@ -17,6 +17,6 @@ Inicio
    escreval("Digite o valor de C:")
    leia(C)
    quadrado <- (A + B + C) * (A + B + C)
-   escreval("A soma dos quadrados dos três valores é: ",quadrado)
+   escreval("A soma dos quadrados dos trÃªs valores Ã©: ",quadrado)
 
 Fimalgoritmo
