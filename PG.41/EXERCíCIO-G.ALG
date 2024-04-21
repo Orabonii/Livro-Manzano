@@ -1,7 +1,7 @@
-Algoritmo "Exercício_G"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_G"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_g.
 // Autor(a)    : kaua oraboni
 // Data atual  : 16/04/2024
 Var
@@ -10,25 +10,25 @@ Var
     num3: inteiro
     num4: inteiro
 Inicio
-      escreval("Digite o 1º número: ")
+      escreval("Digite o 1Âº nÃºmero: ")
       leia(num1)
-      escreval ("Digite o 2° número: ")
+      escreval ("Digite o 2Â° nÃºmero: ")
       leia (num2)
-      escreval ("Digite o 3° número: ")
+      escreval ("Digite o 3Â° nÃºmero: ")
       leia (num3)
-      escreval ("Digite o 4° número: ")
+      escreval ("Digite o 4Â° nÃºmero: ")
       leia (num4)
       se (num1 mod 2 = 0) e (num1 mod 3 = 0) entao
-         escreval("O número ", num1, " é divisível por 2 e 3.")
+         escreval("O nÃºmero ", num1, " Ã© divisÃ­vel por 2 e 3.")
       fimse
       se (num2 mod 2 = 0) e (num2 mod 3 = 0) entao
-         escreval("O número ", num2, " é divisível por 2 e 3.")
+         escreval("O nÃºmero ", num2, " Ã© divisÃ­vel por 2 e 3.")
       fimse
       se (num3 mod 2 = 0) e (num3 mod 3 = 0) entao
-         escreval("O número ", num3, " é divisível por 2 e 3.")
+         escreval("O nÃºmero ", num3, " Ã© divisÃ­vel por 2 e 3.")
       fimse
       se (num4 mod 2 = 0) e (num4 mod 3 = 0) entao
-         escreval("O número ", num4, " é divisível por 2 e 3.")
+         escreval("O nÃºmero ", num4, " Ã© divisÃ­vel por 2 e 3.")
       fimse
       
 Fimalgoritmo
