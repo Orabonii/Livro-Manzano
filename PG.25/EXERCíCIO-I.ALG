@@ -1,7 +1,7 @@
-Algoritmo "Exercício_I"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_I"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_i.
 // Autor(a)    : kaua oraboni
 // Data atual  : 14/04/2024
 Var
@@ -17,6 +17,6 @@ Inicio
    leia(B)
    diferenca <- A - B
    resultado <- diferenca * diferenca
-   escreval("O quadrado da diferença entre ", A, " e ", B, " é ", resultado)
+   escreval("O quadrado da diferenÃ§a entre ", A, " e ", B, " Ã© ", resultado)
 
 FimAlgoritmo
