@@ -1,26 +1,26 @@
-Algoritmo "Exercício_L"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_L"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_l.
 // Autor(a)    : kaua oraboni
 // Data atual  : 17/04/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    nome:caracter
    sexo:caracter
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreval("Digite seu nome")
    leia(nome)
-   escreval("Digite seu gênero")
+   escreval("Digite seu gÃªnero")
    leia (sexo)
    se sexo = "Masculino" entao
-      escreval ("Ilmo Sr. ",nome," , o sexo que você selecionou foi o: ",sexo)
+      escreval ("Ilmo Sr. ",nome," , o sexo que vocÃª selecionou foi o: ",sexo)
    senao
       se sexo = "Feminino" entao
-         escreval ("Ilmo Sr. ",nome," , o sexo que você selecionou foi o: ",sexo)
+         escreval ("Ilmo Sr. ",nome," , o sexo que vocÃª selecionou foi o: ",sexo)
       fimse
    fimse
 
