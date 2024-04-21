@@ -1,19 +1,19 @@
-Algoritmo "Exercício_A"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_A"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : ExercÃ­cio_A.
 // Autor(a)    : kaua oraboni
 // Data atual  : 10/04/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 Celsius: real
 Fahrenheit: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 escreval ("Digite a temperatura em Graus Celsius: ")
 leia (Celsius)
 Fahrenheit <- (9 * Celsius + 160) / 5
-escreval ("A temperatura de",Celsius,"°C , convertida em Fahrenheit é de:", Fahrenheit,"F")
+escreval ("A temperatura de",Celsius,"Â°C , convertida em Fahrenheit Ã© de:", Fahrenheit,"F")
 
 Fimalgoritmo
