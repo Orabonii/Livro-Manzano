@@ -1,7 +1,7 @@
-Algoritmo "Exercício_I"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_I"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_i.
 // Autor(a)    : kaua oraboni
 // Data atual  : 16/04/2024
 Var
@@ -11,8 +11,8 @@ Inicio
    escreval ("digite um numero")
    leia (num)
    se num mod 2 = 0 entao
-      Escreval("O número ", num, " é par.")
+      Escreval("O nÃºmero ", num, " Ã© par.")
    senao
-      Escreval("O número ", num, " é ímpar.")
+      Escreval("O nÃºmero ", num, " Ã© Ã­mpar.")
    fimse
 FimAlgoritmo
