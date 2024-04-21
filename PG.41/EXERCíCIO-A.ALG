@@ -1,29 +1,29 @@
-Algoritmo "Exercício_A"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_A"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_a.
 // Autor(a)    : kaua oraboni
 // Data atual  : 14/04/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    lervalor1:inteiro
    lervalor2:inteiro
    diferenca:inteiro
 
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreval("Digite um valor: ")
    leia (lervalor1)
    escreval ("Digite outro valor: ")
    leia (lervalor2)
    se (lervalor1 > lervalor2) entao
       diferenca <- lervalor1 - lervalor2
-      escreval ("A diferença dos valores é ", diferenca)
+      escreval ("A diferenÃ§a dos valores Ã© ", diferenca)
    senao
       se (lervalor2 > lervalor1) entao
          diferenca <- lervalor2 - lervalor1
-         escreval ("A diferença dos valores é ", diferenca)
+         escreval ("A diferenÃ§a dos valores Ã© ", diferenca)
       fimse
    fimse
 
