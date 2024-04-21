@@ -1,21 +1,21 @@
-Algoritmo "Exercício_J"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_J"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_j.
 // Autor(a)    : kaua oraboni
 // Data atual  : 16/04/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 valor:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Digite um valor de 1 até 9")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+escreval("Digite um valor de 1 atÃ© 9")
 leia (valor)
 se (valor >=1) e (valor <=9) entao
-escreval ("O valor está dentro do permitido")
+escreval ("O valor estÃ¡ dentro do permitido")
 senao
-escreval ("o valor está fora da faixa permitida")
+escreval ("o valor estÃ¡ fora da faixa permitida")
 fimse
 
 Fimalgoritmo
