@@ -1,7 +1,7 @@
-Algoritmo "Exercício_E"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_E"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_e.
 // Autor(a)    : kaua oraboni
 // Data atual  : 16/04/2024
 Var
@@ -20,10 +20,10 @@ Inicio
 
    Delta <- B*B - 4*A*C
    se Delta < 0 entao
-      escreval("Não existem raízes reais para esta equação.")
+      escreval("NÃ£o existem raÃ­zes reais para esta equaÃ§Ã£o.")
    senao
       Raiz1 <- (-B + raizq(Delta)) / (2*A)
       Raiz2 <- (-B - raizq(Delta)) / (2*A)
-      escreval("As raízes da equação são: ", Raiz1, " e ", Raiz2)
+      escreval("As raÃ­zes da equaÃ§Ã£o sÃ£o: ", Raiz1, " e ", Raiz2)
    fimse
 Fimalgoritmo
