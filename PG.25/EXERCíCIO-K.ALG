@@ -1,7 +1,7 @@
-Algoritmo "Exercício_K"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_K"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_k.
 // Autor(a)    : kaua oraboni
 // Data atual  : 14/04/2024
 Var
@@ -11,11 +11,11 @@ valor:real
 
 
 Inicio
-escreval ("insira a quantidade de reais que você tem")
+escreval ("insira a quantidade de reais que vocÃª tem")
 leia (quantidadeReal)
-escreval ("qual o valor da cotação do dolar hoje")
+escreval ("qual o valor da cotaÃ§Ã£o do dolar hoje")
 leia (IC)
 valor <- (quantidadeReal / IC)
-escreval ("O valor da transformação é $:", valor)
+escreval ("O valor da transformaÃ§Ã£o Ã© $:", valor)
 
 Fimalgoritmo
