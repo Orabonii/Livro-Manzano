@@ -1,20 +1,20 @@
-Algoritmo "Exercício_B"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_B"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_b.
 // Autor(a)    : kaua oraboni
 // Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    valor:real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    escreval ("Digite um valor negativo: ")
    leia (valor)
    se valor < 0 entao
       valor <- valor * -1
-      escreval ("O valor sendo positivo é: ",valor)
+      escreval ("O valor sendo positivo Ã©: ",valor)
    fimse
 
 Fimalgoritmo
