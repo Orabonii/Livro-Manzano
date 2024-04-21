@@ -1,18 +1,18 @@
-Algoritmo "Exercício_H"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "ExercÃ­cio_H"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Conversão de temperatura, de Celsius para Fahrenheit.
+// DescriÃ§Ã£o   : Exercicio_h.
 // Autor(a)    : kaua oraboni
 // Data atual  : 14/04/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 comprimento:real
 largura:real
 altura:real
 volume:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 escreval ("Vamos medir o volume de uma caixa retangular!")
 escreval("Digite o comprimento da caixa retangular: ")
 leia (comprimento)
@@ -21,6 +21,6 @@ leia (largura)
 escreval ("Digite a altura da caixa: ")
 leia (altura)
 volume <- comprimento * largura * altura
-escreval ("O volume desta caixa retangular é de: ",volume)
+escreval ("O volume desta caixa retangular Ã© de: ",volume)
 
 Fimalgoritmo
